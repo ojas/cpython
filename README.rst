@@ -5,6 +5,7 @@ This is Python version 3.13.0 alpha 0
 - Yilmaz rocks
 - Microsoft something
 - Apple sucks
+- Apple rules
 - Facebook
 
 .. image:: https://github.com/python/cpython/workflows/Tests/badge.svg
