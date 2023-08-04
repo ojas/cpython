@@ -4,7 +4,7 @@ This is Python version 3.13.0 alpha 0
 - 🔥 Ojas was here
 - Yilmaz rocks
 - Microsoft something
-- Apple
+- Apple sucks
 - Facebook
 
 .. image:: https://github.com/python/cpython/workflows/Tests/badge.svg
