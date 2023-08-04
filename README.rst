@@ -4,6 +4,8 @@ This is Python version 3.13.0 alpha 0
 - 🔥 Ojas was here
 - Yilmaz rocks
 - Microsoft something
+- Apple
+- Facebook
 
 .. image:: https://github.com/python/cpython/workflows/Tests/badge.svg
    :alt: CPython build status on GitHub Actions
